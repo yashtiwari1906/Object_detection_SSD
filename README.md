@@ -33,3 +33,4 @@
   
 # Run
   - There is a colab file which you can directly run after preparing data.
+  - The important files in the repository are voc_dataset.py, train_ssd.py which will require manipulations
